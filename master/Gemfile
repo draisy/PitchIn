@@ -28,6 +28,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Use Rails Html Sanitizer for HTML sanitization
 gem 'rails-html-sanitizer', '~> 1.0'
+gem 'pry'
 
 # Use Unicorn as the app server
 # gem 'unicorn'
@@ -38,6 +39,7 @@ gem 'rails-html-sanitizer', '~> 1.0'
 group :development, :test do
   # Call 'debugger' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
+  gem "rails-erd"
 
   # Access an IRB console on exceptions page and /console in development
   gem 'web-console', '~> 2.0.0.beta2'

@@ -2,8 +2,8 @@
 
 one:
   name: MyString
-  datetime: 2014-11-20 15:23:53
+  datetime: MyString
 
 two:
   name: MyString
-  datetime: 2014-11-20 15:23:53
+  datetime: MyString
